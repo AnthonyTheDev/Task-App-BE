@@ -22,5 +22,8 @@
         "@prisma/client": "^6.1.0",
         "cors": "^2.8.5",
         "prisma": "^6.1.0"
+    },
+    "engines": {
+        "node": ">19.0.0"
     }
 }
