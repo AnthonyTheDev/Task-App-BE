@@ -9,6 +9,9 @@ First, to run server, you want to build the files and then run the server
 
 ```bash
 npm run build
+```
+
+```bash
 npm run start
 ```
 
